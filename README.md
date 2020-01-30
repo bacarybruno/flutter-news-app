@@ -1,4 +1,4 @@
-# Welcome to flutter-news-app 👋
+<h1 align="center">Welcome to flutter-news-app 👋</h1>
 
 > A simple news app built with Flutter and using Wordpress REST API
 
@@ -70,6 +70,9 @@ flutter test
 
 Give a ⭐️ if this project helped you!
 
+## 📝 License
+
+Copyright © 2020 [bacarybruno](https://github.com/bacarybruno).<br />
 
 ***
 _This README was generated with ❤️ by [readme-md-generator](https://github.com/kefranabg/readme-md-generator)_
